@@ -6,8 +6,8 @@ Base URL para comunicação com API: https://6348cc5ea59874146b110e79.mockapi.io
   - Estrutura de pastas
   - Styled components
   - Axios
-  - UseEffect
-  - UseState
+  - useEffect
+  - useState
   - Componentes
   - React router DOM
   - Como fazer build da aplicação
